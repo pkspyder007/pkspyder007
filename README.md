@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [A Result Portal](https://iiitu-results.herokuapp.com/)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Data Structures**
 
 - 👨‍💻 My portfolio website is available at [https://thejsguy.me](https://thejsguy.me)
 
-- 📝 I sometime write articles on [https://thejsguy.me/blog](https://thejsguy.me/blog)
+- 📝 I sometime write articles on [https://thejsguy.me/#writings](https://thejsguy.me/#writings)
 
 - 💬 Ask me about **react, node.js, express.js, or anything thing intresting.**
 
