@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkspyder007" alt="pkspyder007" /> </p>
 
-- 🔭 I’m currently working on [A Result Portal](https://iiitu-results.herokuapp.com/)
+- 🔭 I’m currently working on a lot of amazing new technologies
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 My portfolio website is available at [https://thejsguy.me](https://thejsguy.me)
+- 👨‍💻 My portfolio website is available at [https://praveeen.in](https://praveeen.in)
 
-- 📝 I sometime write articles on [https://thejsguy.me/#writings](https://thejsguy.me/#writings)
+- 📝 I sometime write articles on [my blog](https://blog.praveeen.in)
 
 - 💬 Ask me about **react, node.js, express.js, or anything thing intresting.**
 
-- 📫 How to reach me **praveenkr.564@gmail.com**
+- 📫 How to reach me **hello@praveeen.in**
 
 - ⚡ Fun fact **I can shoot like Stephen Curry**
 
