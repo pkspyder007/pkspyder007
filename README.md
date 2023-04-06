@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<!-- <h3 align="center">A passionate full stack developer from India</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pkspyder007" alt="pkspyder007" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkspyder007" alt="pkspyder007" /> </p> -->
 
 - 🔭 I’m currently working on a lot of amazing new technologies
 
@@ -9,13 +9,11 @@
 
 - 👨‍💻 My portfolio website is available at [https://praveeen.in](https://praveeen.in)
 
-- 📝 I sometime write articles on [my blog](https://blog.praveeen.in)
-
 - 💬 Ask me about **react, node.js, express.js, or anything thing intresting.**
 
-- 📫 How to reach me **hello@praveeen.in**
+- 📫 How to reach me?  [Social links](https://www.praveeen.in/about)
 
-- ⚡ Fun fact **I can shoot like Stephen Curry**
+- ⚡ Fun fact **I can shoot like Stephen Curry 😜**
 
 
 <p><img align="left"
